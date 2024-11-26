@@ -44,6 +44,6 @@
 13. Шаблоны проектирования и архитектурные шаблоны. Использование в веб-приложениях.
 14. Архитектура веб-приложений. Шаблон MVC. Архитектурные модели Model 1 и Model 2 и их реализация на платформе Java EE.
     
- ![image](![image](https://github.com/user-attachments/assets/46db43bc-6cad-49c4-b35f-a851a39df393)
-)
+![image](https://github.com/user-attachments/assets/30bbe5fc-80c1-45ae-a365-07c0ed282a3a)
+
 
